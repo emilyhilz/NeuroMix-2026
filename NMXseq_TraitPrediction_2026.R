@@ -15,7 +15,7 @@ library("dplyr")
 # Emily N. Hilz, Phd. 
 # The University of Texas at Austin
 # ehilz@utexas.edu
-# please reference _________________________________ when using this code
+# please reference https://doi.org/10.1210/endocr/bqag084 when using this code
 
 ################################################################################
 # Example code for one sex/brain region and outcome variable (high fat food):
